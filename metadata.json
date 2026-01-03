@@ -1,0 +1,8 @@
+{
+  "name": "Mannu Editor",
+  "description": "A comprehensive PDF editing and manipulation suite including merging, splitting, compressing, and AI-powered document analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
